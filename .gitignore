@@ -4,4 +4,3 @@ Pipfile
 Pipfile.lock
 manage.py
 polls/
-test_django/
