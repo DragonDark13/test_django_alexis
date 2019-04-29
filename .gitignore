@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+Pipfile
+Pipfile.lock
+manage.py
+polls/
+test_django/
